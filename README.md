@@ -1,2 +1,2 @@
 # Dmap
- Data Mapper
+Disk Imager
